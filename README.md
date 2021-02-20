@@ -1,2 +1,2 @@
-This program will be used for evaluating cell clustering results and hierarchically present the cell clusters
+This program will be used for evaluating cell clustering results as well as hierarchically present the cell clusters
 
